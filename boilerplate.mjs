@@ -1,7 +1,7 @@
-import { tap } from "ramda"
+import { tap, pipe } from "ramda"
 
 const main = pipe(
   tap(console.log)
 )
 
-main(input)
+main("Hello, World!")
