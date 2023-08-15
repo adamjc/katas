@@ -1,0 +1,17 @@
+KOTD: 
+
+
+Move all vowels of a word to the start or end of the word depending on their order, 
+if the vowel is closer to the start of the word than the end it should be at the start of the word and vice versa. 
+
+
+e.g. Hello
+ehllo
+
+
+Maneuver
+aeMnvrue 
+
+
+The order of the vowels matters too such as in the previous example 'a' is the first vowel in the first half 
+of the word so is the first character.
